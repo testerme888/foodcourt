@@ -22,6 +22,6 @@ jobs:
         port: 21
         protocol: ftp
         local-dir: dist/
-        server-dir: /home/vol1_4/infinityfree.com/if0_39305400/htdocs/
+        server-dir: /home/vol1_4/infinityfree.com/if0_39305400/
         log-level: standard
         security: loose
